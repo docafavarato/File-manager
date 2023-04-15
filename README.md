@@ -1,20 +1,18 @@
 # Gerenciador de arquivos
 
 ## About
-> Um simples gerenciador de arquivos
+> A basic file manager.
 
 ## Functions
-> Exibe todos os arquivos em uma pasta selecionada pelo usuário
+> Shows all the files in a selected folder
 
-> Possue a opção de seleção e remoção dos arquivos selecionados pelo usuário
+> Can remove the selected files
 
-> Possue a opção de exportação dos arquivos selecionados pelo usuário
+> Can export the selected files
 
-> Filtra os arquivos com base nas extensões (.jpg, .mp4, etc.)
+> Can filter the files based on their extensions (.jpg, .mp4, etc.)
 
-> Exibe uma miniatura do arquivo selecionado caso o mesmo seja uma imagem
-
-> Exibe a quantidade de arquivos dentro da pasta selecionada
+> Shows the amount of files in the selected folder
 
 >![image](https://user-images.githubusercontent.com/98183878/193454033-a9108755-14f0-4a08-88ae-47998ea3c290.png)
 >![image](https://user-images.githubusercontent.com/98183878/193454060-9b7fa70a-71c1-48bd-82f3-d78308257aa3.png)
