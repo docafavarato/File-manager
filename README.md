@@ -1,4 +1,4 @@
-# Gerenciador de arquivos
+# File Manager
 
 ## About
 > A basic file manager.
