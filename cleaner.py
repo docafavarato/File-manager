@@ -113,7 +113,6 @@ class Ui(QtWidgets.QMainWindow):
             else:
                 pass
     
-
 app = QApplication(sys.argv)
 window = Ui()
 app.exec_()
