@@ -11,6 +11,7 @@ A basic file manager made with PyQt5.
 - Can filter the files based on their extensions (.jpg, .mp4, etc.)
 - Shows the amount of files in the selected folder
 
+## Images
 ![image](https://user-images.githubusercontent.com/98183878/193454033-a9108755-14f0-4a08-88ae-47998ea3c290.png)
 ![image](https://user-images.githubusercontent.com/98183878/193454060-9b7fa70a-71c1-48bd-82f3-d78308257aa3.png)
 ![image](https://user-images.githubusercontent.com/98183878/193454088-7812f3b5-3194-4a33-b2ad-a5ab9530e35c.png)
